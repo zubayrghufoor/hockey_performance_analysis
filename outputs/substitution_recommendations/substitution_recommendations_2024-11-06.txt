@@ -1,0 +1,4 @@
+2024-11-06 15:18:10: Sustained high heart rate detected. Consider substitution.
+2024-11-06 15:51:21: Sustained high heart rate detected. Consider substitution.
+2024-11-06 15:56:22: Sustained high heart rate detected. Consider substitution.
+2024-11-06 16:21:00: Sustained significant drop in movement rate detected. Consider substitution.

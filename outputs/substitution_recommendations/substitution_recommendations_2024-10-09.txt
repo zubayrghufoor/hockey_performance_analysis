@@ -1,0 +1,2 @@
+2024-10-09 17:49:00: Sustained significant drop in movement rate detected. Consider substitution.
+2024-10-09 17:54:00: Sustained significant drop in movement rate detected. Consider substitution.
